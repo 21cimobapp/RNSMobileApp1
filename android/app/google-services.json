@@ -1,0 +1,50 @@
+
+
+{
+  "project_info": {
+    "project_number": "403973670463",
+    "firebase_url": "https://rnsmobileapp-e607d.firebaseio.com",
+    "project_id": "rnsmobileapp-e607d",
+    "storage_bucket": "rnsmobileapp-e607d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403973670463:android:8f999a1f8203b50af21a8a",
+        "android_client_info": {
+          "package_name": "com.rns.ciPatientApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403973670463-r7ns7ef2g8rm5amk0eaa1jllk7orjiip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rns.ciPatientApp",
+            "certificate_hash": "fb741b764378267d29980bae1ec1c2f770e04808"
+          }
+        },
+        {
+          "client_id": "403973670463-o3gb7plcspsaieersfjct0dved43a87k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2s8sq3t6Tk_xO2SpriPfI56IjbtRcsz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403973670463-o3gb7plcspsaieersfjct0dved43a87k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
